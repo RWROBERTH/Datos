@@ -1,24 +1,24 @@
 # Datos
 ᅣᛜNOMBRE: Roberth Williams Ruiz Condori. 
 
-         ᅣᛜCOLEGIO:  Estudió en Guido Villagomez.   
+ᅣᛜCOLEGIO:  Estudió en Guido Villagomez.   
 
-         ᅣᛜHOBBIES: Jugar videojuegos y el fútbol.    
+ᅣᛜHOBBIES: Jugar videojuegos y el fútbol.    
 
-         ᅣᛜLOGROS EN EL COLEGIO: El mejor en la    
+ᅣᛜLOGROS EN EL COLEGIO: El mejor en la    
 
-         ᅣmateria de Matemáticas.                                
+materia de Matemáticas.                                
 
-         ᅣᛜPORQUE ESTUDIÓ MECATRÓNICA:            
+ᅣᛜPORQUE ESTUDIÓ MECATRÓNICA:            
 
-         ᅣPor mi interés en electrónica y mecánica    
+Por mi interés en electrónica y mecánica    
 
-         ᅣy por lo versátil que puede ser.                      
+y por lo versátil que puede ser.                      
 
-         ᅣᛜCUAL SERÁ MI PRIMER PRODUCTO: No   
+ᅣᛜCUAL SERÁ MI PRIMER PRODUCTO: No   
 
-         ᅣlo sé todavía, no tengo algo en mente,         
+lo sé todavía, no tengo algo en mente,         
 
-         ᅣpodria ser un sistema automatizado o         
+podria ser un sistema automatizado o         
 
-         ᅣdiseño mecánico .        
+diseño mecánico .        
